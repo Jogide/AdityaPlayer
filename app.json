@@ -3,22 +3,22 @@
     "logo": "https://te.legra.ph/file/2e2ddeb33674ba956148f.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/itsadityaxd/adityaplayer",
+    "repository": "https://github.com/jogide/adityaplayer",
     "stack": "container",
     "env": {
-        "API_ID": {
+        "API_ID": {10186128
             "description": "Your App ID",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {ef36e049a0e23ed3484f493f3d755d4c
             "description": "Your App Hash",
             "required": true
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {5342538195:AAERJt8_5RU5cS1HT6GQ6JvKLCG8ySqrE_o
             "description": "Put Bot Token Of Your Bot",
             "required": true
         },
-        "STRING_SESSION": {
+        "STRING_SESSION": {AQBcFtyun739xVzPnh85UQCopON4u2KI4gv-NH6VBYWr7lhNXiY9T03iClKLm2v0ybZXoDH0cFyWXgg33NT4uPhjXgz7IVJSdhbA_kt36m_Y6fRkGcUgzvQnc9kHbLgagwzZ1DiqbBs92M2bXtiKjwsetdF-y718e6SD6VVZIPXBxmXZ0hHkN4wGXVXFI1VJ5XiNSUxw4elVNQ9GzuB3DVz1LgvKB9lI4DA8WMopuRyJ_HKDq9m3A-MNoYAKGzZaJ5mYMlxItFpuC1zzAcpBPijF9NzrYdjiwl0Xuqwmbt3_x1zIrONw_E6qGX72CGhsxOyI-JobgOMhyWrbJk9dQnalAAAAATYrDzUA
             "description": "Pyrogram String Session",
             "required": true
         }
